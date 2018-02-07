@@ -1,0 +1,40 @@
+/*!
+    zyng-grid.css v1.0.0 | github.com/kes2401/zyng
+*/
+
+/*---------- Basic browser resets ----------*/
+
+*,
+*::after,
+*::before {
+    margin: 0;
+    padding: 0;
+    box-sizing: inherit;
+}
+
+html {
+    box-sizing: border-box;
+}
+
+article,
+aside,
+footer,
+header,
+nav,
+section,
+figure,
+figcaption,
+main {
+    display: block;
+}
+
+img {
+    border-style: none;
+}
+
+canvas {
+    display: inline-block;
+}
+
+/*---------- The grid ----------*/
+

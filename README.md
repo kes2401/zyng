@@ -1,5 +1,5 @@
 # zyng
-A simple CSS Grid with a little style
+A simple CSS grid with a little style
 
 ## Overview
 

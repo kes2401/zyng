@@ -1,0 +1,99 @@
+Device CSS Pixel Sizes
+
+
+*** MOBILE PHONES ***
+
+
+Samsung Galaxy S8
+- Width:   360
+- Height:  740
+
+Samsung Galaxy S7, S6, S5
+- Width:   360
+- Height:  640
+
+Samsung Galaxy Note8
+- Width:   360
+- Height:  740
+
+Google Pixel 2
+- Width:    ??
+- Height:   ??
+
+LG V30
+- Width:    ??
+- Height:   ??
+
+LG G5, G4, G3
+- Width:   360
+- Height:  640
+
+Sony Xperia XZ Premium
+- Width:    ??
+- Height:   ??
+
+Sony Xperia Z, S, P
+- Width:   360
+- Height:  640
+
+iPhone 7 & 8
+- Width:   375
+- Height:  667
+
+iPhone 7+ & 8+
+- Width:   414
+- Height:  736
+
+
+
+*** TABLETS ***
+
+
+iPad Pro
+- Width:  1024 
+- Height: 1366
+
+iPad Pro 9.7
+- Width:   768 
+- Height: 1024
+
+iPad 3, 4, Air, Air2, 1, 2, mini2, mini3, mini4, mini
+- Width:   768 
+- Height: 1024
+
+Samsung Galaxy Tab3 10", Tab2 10", Tab 8.9"
+- Width:   800 
+- Height: 1280
+
+Samsung Nexus 10
+- Width:   800
+- Height: 1280
+
+Kindle Fire HD 8.9
+- Width:   800
+- Height: 1280
+
+Kindle Fire HD 7
+- Width:   480
+- Height:  800
+
+Kindle Fire
+- Width:   600
+- Height: 1024
+
+Microsoft Surface Pro 3
+- Width:  1024
+- Height: 1440
+
+Miocrosoft Surface Pro 2, Pro
+- Width:   720
+- Height: 1280
+
+
+
+
+
+
+
+Values taken from:
+https://mydevice.io/devices/

@@ -39,6 +39,19 @@ canvas {
 /*---------- The grid ----------*/
 
 
+/*---------- Other sizing ----------*/
+
+img,
+object,
+video,
+embed {
+	max-width: 100%;
+}
+
+
+
+/*---------- Utility Classes ----------*/
+
 
 
 
@@ -47,3 +60,4 @@ canvas {
 html {
     font-size: 62.5%; /* A comment about the font-size - ... */ 
 }
+
